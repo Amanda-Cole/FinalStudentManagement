@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 #connection to mysql workbench database
 connection = mysql.connector.connect(
         host="localhost",
@@ -88,6 +89,8 @@ def retrieve_counselor():
         print("Counselor Information:")
         for row in result:
             print(row)
+
+
 
 # Function to show menu options
 def menu():
