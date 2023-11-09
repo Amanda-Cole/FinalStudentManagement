@@ -1,17 +1,17 @@
 # Overview
 
-Practice using SQL to connect and query a databases through Python code.
+Practice using SQL to connect and query a database through Python code.
 
 I wrote a simple program that acts as a Student Management program.  Data is stored in a database through SQL workbench.  Through python, functions are called that then run queries to produce the desired information.  Functions to display, add, edit, delete, and see information through joined tables are included.
 
 By writing this program I was able to learn and understand the ability for databases to be accessed through other code languages.  This knowledge will be benefitial moving forward and understanding large and complex programs that use databases.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Student Management Video](https://youtu.be/S-myMbv8NFk)
 
 # Relational Database
 
-I used a database that was created in SQL Workbench. The database consists of three tables - students, counselors, and students_has_counselor.
+I used a database that I created in SQL Workbench. The database consists of three tables - students, counselors, and students_has_counselor.
 
 The students table has the following setup:  
 
